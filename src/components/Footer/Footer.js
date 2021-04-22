@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      My New New Footer
+      My New older Footer
     </footer>
   );
 }
